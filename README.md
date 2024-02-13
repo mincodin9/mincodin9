@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=venom&&&&color=0:C21292,100:EF4040&fontColor=FFA732&height=200&section=header&text=Welcome%20to%20Min's%20GitHub&fontSize=50)
 
 <!--
 **mincodin9/mincodin9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
